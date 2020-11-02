@@ -8,7 +8,7 @@ if __name__ == '__main__':
         try:
             print("ingrese un valor para poder calcular su 10%:")
             total = int(input())
-            calculadora = Calculadora10(total)
+            calculadora = Calculadora10(total) 
             print("el 10%% de %s es: " % str(total))
             print(calculadora.valor10)
             break
