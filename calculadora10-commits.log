@@ -1,0 +1,30 @@
+commit ebe6c7eeb00d8034745a42f63c632783bbad2fe0
+Author: Ricardo Ardiles <rardiles@cognitiva.la>
+Date:   Mon Nov 2 20:51:39 2020 -0300
+
+    ADD: rama feature-Calcular10 + test.log
+
+commit 2d22b976a651b3a3d84edcec2a595dae86e0693e
+Merge: 6f94364 50521f4
+Author: Ricardo Ardiles <rardiles@cognitiva.la>
+Date:   Mon Nov 2 20:17:15 2020 -0300
+
+    Merge branch 'main' of https://github.com/rardilesg/calculadora_diplomado into main
+
+commit 6f94364d93635849a31dc0d45715e33ad30f1ccf
+Author: Ricardo Ardiles <rardiles@cognitiva.la>
+Date:   Mon Nov 2 20:08:52 2020 -0300
+
+    an updated commit message
+
+commit 50521f4a4f0e2d4e00e501cc77704c07a73ac031
+Author: Ricardo Ardiles <rardiles@cognitiva.la>
+Date:   Mon Nov 2 20:08:52 2020 -0300
+
+    asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+
+commit 37055a0389a0e874be39bb0dc25874a6a57e8ef1
+Author: Ricardo Ardiles <rardiles@cognitiva.la>
+Date:   Wed Oct 28 13:41:07 2020 -0300
+
+    primera calculadora
